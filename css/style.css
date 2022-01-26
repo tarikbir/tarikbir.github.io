@@ -3302,3 +3302,8 @@ blockquote {
 .bottomMargin0 {
     margin-bottom: 0;
 }
+
+.d-block {
+    display: block;
+    margin: auto;
+}
